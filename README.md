@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C,C++,Java,Python**
 
-- 📫 How to reach me **vaibhavigaikwad2810@gmail.com**
+- 📫 How to reach me **Ping me on Linkedln**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
