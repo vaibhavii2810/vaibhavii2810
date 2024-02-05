@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Full Stack Development**
 
-- 💬 Ask me about **C,C++,Java,Python**
+- 💬 Ask me about **Java,Python,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **Ping me on Linkedln**
 
