@@ -34,27 +34,10 @@ Building Intelligent AI Systems using LLMs, RAG, LangChain & FastAPI 🚀
 
 
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavii2810&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavii2810&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavii2810&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavii2810&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 
