@@ -23,22 +23,6 @@ Building Intelligent AI Systems using LLMs, RAG, LangChain & FastAPI 🚀
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
 ## 🌐 Connect with Me
 
 <p align="left">
