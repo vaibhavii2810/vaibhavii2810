@@ -23,98 +23,16 @@ Building Intelligent AI Systems using LLMs, RAG, LangChain & FastAPI 🚀
 
 ---
 
-## 🚀 Tech Stack
 
-### 💻 Programming
 
-- Python
 
-### 🤖 Generative AI
 
-- RAG
-- LangChain
-- LangGraph
-- Prompt Engineering
-- Context Engineering
-- Hugging Face
-- Fine-Tuning
-- Quantization
 
-### 🧠 LLMs
 
-- GPT-4
-- Claude
-- Gemini
-- Llama 3
-- Mistral
 
-### 📚 Vector Databases
 
-- Pinecone
-- FAISS
-- ChromaDB
 
-### ⚙️ Backend
 
-- FastAPI
-- REST APIs
-- Streamlit
-
-### ☁️ Cloud
-
-- AWS SageMaker
-- AWS Bedrock
-
-### 📊 Data Science
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Tableau
-
-### 🛠 Tools
-
-- Git
-- GitHub
-- VS Code
-- PyCharm
-- Jupyter Notebook
-- Google Colab
-- Figma
-
----
-
-## 💼 Experience
-
-### AI/ML Engineer | Unizen Technologies Pvt Ltd
-
-- Built enterprise-grade RAG pipelines using Pinecone & FAISS
-- Developed Agentic AI workflows with LangChain & LangGraph
-- Engineered Prompt & Context Engineering solutions
-- Optimized LLMs using Fine-Tuning & Quantization
-- Built Semantic Search APIs using FastAPI
-- Worked with GPT-4, Gemini, Claude and Llama
-
----
-
-### Data Analyst Intern | Hackveda
-
-- Built Tableau Dashboards
-- Automated Reporting Pipelines
-- Performed Data Analysis on 50K+ records
-
----
-
-## 🎓 Education
-
-**B.Tech Computer Engineering**
-
-Vishwakarma Institute of Information Technology (VIIT), Pune
-
-CGPA: **9.19/10**
-
----
 
 ## 📈 GitHub Stats
 
