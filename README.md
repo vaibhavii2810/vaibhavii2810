@@ -22,7 +22,7 @@ Building Intelligent AI Systems using LLMs, RAG, LangChain & FastAPI 🚀
 - 📫 Email: **vaibhavigaikwad0028@gmail.com**
 
 ---
-
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhavi-gaikwad-96511620b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhavi-gaikwad-96511620b" height="30" width="40" /></a> <a href="https://instagram.com/__unique__soul.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__unique__soul.__" height="30" width="40" /></a> <a href="https://www.leetcode.com/vaibhavi_9999" target="blank"></a> </p>
 ## 🌐 Connect with Me
 
 <p align="left">
