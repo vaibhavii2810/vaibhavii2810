@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Generative AI | Agentic AI | Python Developer</h3>
 
 <p align="center">
-Building Intelligent AI Systems using LLMs, RAG, LangChain & FastAPI 🚀
+Building Intelligent AI Systems using LLMs, RAG, LangChain & FastAP 🚀
 </p>
 
 <p align="left">
