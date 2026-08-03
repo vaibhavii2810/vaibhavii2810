@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20👋,%20I'm%20Vaibhavi&fontSize=42&fontColor=ffffff&animation=fadeIn#gh-light-mode-only" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=Hi%20👋,%20I'm%20Vaibhavi&fontSize=42&fontColor=7aa2f7&animation=fadeIn#gh-dark-mode-only" width="100%"/>
+
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Python+%7C+LangChain+%7C+FastAPI;Building+intelligent+systems+with+LLMs+%F0%9F%9A%80" alt="Typing SVG" />
