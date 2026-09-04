@@ -12,7 +12,7 @@
 
 ---
 
-### 👩‍💻 About 
+### 👩‍💻 About Mee
 
 - 🔭 Working as an **AI/ML Engineer**
 - 🌱 Currently learning **Advanced Agentic AI, LangGraph, AWS Bedrock & Multi-Agent Systems**
