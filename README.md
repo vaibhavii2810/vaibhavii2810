@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20👋,%20I'm%20Vaibhavi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 👩‍💻 About Me    
+### 👩‍💻 About Me    .....;......
 
 - 🔭 Working as an **AI/ML Engineer**
 - 🌱 Currently learning **Advanced Agentic AI, LangGraph, AWS Bedrock & Multi-Agent Systems**
