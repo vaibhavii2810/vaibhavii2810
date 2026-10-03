@@ -12,8 +12,8 @@
 
 ---
 
-### 👩‍💻 About Me ..
-.
+### 👩‍💻 About Me 
+
 - 🔭 Working as an **AI/ML Engineer**
 - 🌱 Currently learning **Advanced Agentic AI, LangGraph, AWS Bedrock & Multi-Agent Systems**
 - 💬 Ask me about **Python, Generative AI, RAG, LangChain, LangGraph, FastAPI, Machine Learning**
