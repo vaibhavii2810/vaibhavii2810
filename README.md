@@ -4,7 +4,7 @@
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Python+%7C+LangChain+%7C+FastAPI;Building+intelligent+systems+with+LLMs+%F0%9F%9A%80" alt="Typing SVG" />
-</a> ..
+</a> ....
 
 <img src="https://komarev.com/ghpvc/?username=vaibhavii2810&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
